@@ -1,0 +1,46 @@
+
+        h2{
+            background-color: aqua;
+        }
+        #a{
+            color:violet ;
+        }
+        #b
+        {
+            color: blue;
+        }
+        #c{
+            color: indigo;
+        }
+        #d{
+            color:green ;
+        }
+        #e{
+            color:red ;
+        }
+        #f{
+            color:orange ;
+        }
+        #g{
+            color:yellow ;
+        }
+        p{
+            font-size: larger;
+            color:darkred;
+        }
+        .abhi ,.ram{
+            font-size: larger;
+            color: rgba(5, 13, 163, 0.844);
+    
+        }
+        
+        table
+        {
+            border-color:red;
+            color:white;
+            background-color:black ;
+        }
+        body{
+            background-color: greenyellow;
+        }
+  
